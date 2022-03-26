@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi, weclome to my school show and tell project!
 
-Things you may want to cover:
+Having started my apprentiship into software development, I have been invited into the school of my old GCSE and A-Level IT teacher to talk to the students about what I do.
 
-* Ruby version
+This project is a demonstration of my coding abilitys in the 7 months I have been doing Ruby On Rails.
 
-* System dependencies
+My aim of this school day is to inspire younger students, especially girls that coding is fun, cool and a great career. 
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
